@@ -31,7 +31,7 @@
 
 		// Status Effects
 		"Citadel_StatusEffect"					"Status Effect"
-		"Citadel_StatusEffectStun"				"Stun"
+		"Citadel_StatusEffectStun"				"Stunn"
 		"Citadel_StatusEffectEMP"				"Silenced"
 		"Citadel_StatusEffectFreeze"			"Freeze"
 		"Citadel_StatusEffectBurn"				"Burn"
